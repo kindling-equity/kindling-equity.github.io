@@ -1,17 +1,15 @@
 ---
 title: "Kindling Equity"
-description: |
-  We are a collection of Bren School students working with Ventura County Regional Fire Safe Council
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-As climate change increases the frequency and severity of wildfires across California, there is an urgent need for wildfire preparedness and response in Ventura County. 
+Climate change increases the frequency and severity of wildfires across California, so there is an urgent need for wildfire preparedness and response in Ventura County. 
 
 Socially vulnerable communities disproportionately lack access to resources and services to prepare and recover from wildfires. As a result, they have a heightened risk for human suffering and property loss in the event of wildfire. 
 
 In collaboration with the Ventura Fire Safe Council, our project seeks to identify socially vulnerable communities at risk of wildfire and help to develop a Community Wildfire Protection Plan that equitably addresses community needs. 
 
-Our project will also contribute to the field of wildfire management by providing a model for local governments to address social vulnerability concerns. It will demonstrate effective methods for developing an accessible wildfire management plan that engages vulnerable communities to reduce local wildfire risk and increase community resilience with implications beyond Ventura County. 
+We will contribute to the field of wildfire management by providing a model that local governments and organizations can utilize to address social vulnerability concerns in the wildfire planning process. Our demonstrates effective methods for developing an accessible wildfire management plan that engages vulnerable communities to reduce local wildfire risk and increase community resilience with implications beyond Ventura County. 

@@ -3,12 +3,14 @@ title: "Supporters"
 
 ---
 
-Our work is supported in part by [Wonder Labs](https://www.wonder-labs.org/). We are a member of their 2021 Reimagining 2025: Living with Fire Design challenge cohort.
-
 ![](images/wonderlabs.png){width=25%}
 
+Our work is supported in part by [Wonder Labs](https://www.wonder-labs.org/). We are a member of their 2021 Reimagining 2025: Living with Fire Design challenge cohort.
 
-Our work is also supported by generosity of the Dipaola Foundation.
+
+---
 
 ![](images/dipaola.png){width=50%}
+
+Our work is also supported by generosity of the Dipaola Foundation.
 
