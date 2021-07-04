@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Kindling Equity is a team of Masters students from the Bren School of Environmental Science and Management interested in bringing equity to the wildfire planning and mitigation process.
+Kindling Equity is a team of Master's students from the Bren School of Environmental Science and Management interested in bringing equity to the wildfire planning and mitigation process.
 
 ![](images/fire_watercolor.jpg)
 
