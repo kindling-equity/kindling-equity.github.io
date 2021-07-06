@@ -2,7 +2,7 @@ name: "ke"
 title: "Kindling Equity"
 description: |
   Kindling Equity
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
