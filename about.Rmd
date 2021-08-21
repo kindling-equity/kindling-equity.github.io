@@ -6,7 +6,7 @@ title: "Kindling Equity"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Climate change is increasing the frequency and severity of wildfires across California, and there is an urgent need for wildfire preparedness and response in Ventura County, California. Simultaneously, socially vulnerable communities disproportionately lack access to resources and services to prepare for and recover from wildfires. As a result, they have a heightened risk of human suffering and property loss in the event of wildfire. 
+Climate change is increasing the frequency and severity of wildfires across California, and there is an urgent need for wildfire preparedness and response in Ventura County, California. Simultaneously, historically-excluded communities disproportionately lack access to resources and services to prepare for and recover from wildfires. As a result, they have a heightened risk of human suffering and property loss in the event of wildfire. 
 
 In collaboration with the Ventura Fire Safe Council, our project seeks to identify socially vulnerable communities at risk of wildfire in Ventura County and to help update the Community Wildfire Protection Plan so that it equitably addresses community needs. 
 
