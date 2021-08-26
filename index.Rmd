@@ -11,11 +11,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Kindling Equity is a team of Master's students from the Bren School of Environmental Science and Management interested in bringing equity to the wildfire planning and mitigation process.
+Kindling Equity is a team of Master's students from the Bren School of Environmental Science and Management at the UC Santa Barbara that is interested in bringing equity to the wildfire planning and mitigation process.
 
 ![](images/fire_watercolor.jpg)
 
-We are partnered with the Ventura Regional Fire Safe Council (VRFSC) to help facilitate the inclusion of socially vulnerable communities at risk of wildfire in the upcoming revision of the Ventura County Community Wildfire Protection Plan (CWPP).
+We are partnered with the Ventura Regional Fire Safe Council (VRFSC) to help facilitate the inclusion of communities most at risk of wildfire in the upcoming revision of the Ventura County Community Wildfire Protection Plan (CWPP).
 
 ![](images/firesafe.png)
 
