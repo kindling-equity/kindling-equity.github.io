@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
+![](images/bren.png)
+![](images/KE-team_all.jpg)
 
 Kindling Equity is a team of Master's students from the Bren School of Environmental Science and Management at the UC Santa Barbara that is interested in bringing equity to the wildfire planning and mitigation process.
 

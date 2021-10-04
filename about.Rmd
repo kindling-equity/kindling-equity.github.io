@@ -11,3 +11,5 @@ Climate change is increasing the frequency and severity of wildfires across Cali
 In collaboration with the Ventura Regional Fire Safe Council, our project seeks to identify communities most at risk of wildfire impacts in Ventura County and to help update the Community Wildfire Protection Plan so that it equitably addresses community needs. 
 
 We will contribute to the field of wildfire management by providing a model that local governments and organizations can utilize to address social equity concerns in the wildfire planning process. Our goal is to demonstrate effective methods for developing an accessible wildfire management plan that engages impacted residents to reduce local wildfire risk and increase community resilience with implications beyond Ventura County. 
+
+[Read our work plan](work-plan.html)
