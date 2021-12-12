@@ -10,14 +10,16 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-![](images/bren.png)
+
 ![](images/KE-team_all.jpg)
 
 Kindling Equity is a team of Master's students from the Bren School of Environmental Science and Management at the UC Santa Barbara that is interested in bringing equity to the wildfire planning and mitigation process.
+
+[Learn about our work thus far](https://storymaps.arcgis.com/stories/c5edeade2126407eb58772cc5a06206d)
 
 ![](images/fire_watercolor.jpg)
 
 We are partnered with the Ventura Regional Fire Safe Council (VRFSC) to help facilitate the inclusion of communities most at risk of wildfire in the upcoming revision of the Ventura County Community Wildfire Protection Plan (CWPP).
 
-![](images/firesafe.png)
+![](images/bren.png){width=45%} ![](images/firesafe.png){width=45%}
 

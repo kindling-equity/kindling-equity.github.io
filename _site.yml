@@ -3,7 +3,12 @@ title: "Kindling Equity"
 description: |
   Kindling Equity
 output_dir: "docs"
+theme: theme.css
+favicon: images/ke_logo.png
 navbar:
+  logo:
+    image: images/KE_logo.png
+    href: index.html
   right:
     - text: "Home"
       href: index.html
