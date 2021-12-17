@@ -4,7 +4,7 @@ description: |
   Kindling Equity
 output_dir: "docs"
 theme: theme.css
-favicon: images/ke_logo.png
+favicon: images/favicon.io
 navbar:
   logo:
     image: images/KE_logo.png
@@ -14,6 +14,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Progress"
+      href: wonderlabs_storymap.html
     - text: "Team"
       href: team.html
     - text: "Supporters"
