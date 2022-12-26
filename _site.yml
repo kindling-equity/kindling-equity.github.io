@@ -14,8 +14,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Progress"
+    - text: "Wonderlabs"
       href: wonderlabs_storymap.html
+    - text: "Report"
+      href: final_report.html
     - text: "Team"
       href: team.html
     - text: "Supporters"
