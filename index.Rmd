@@ -22,7 +22,7 @@ We partnered with the Ventura Regional Fire Safe Council (VRFSC) to help facilit
 
 Our project culminated in a report meant to help inform the projects defined in the CWPP revision.
 
-[View our report](docs/final_report.html)
+[View our report](final_report.html)
 
 [Watch our final presentation](https://vimeo.com/710581526)
 
